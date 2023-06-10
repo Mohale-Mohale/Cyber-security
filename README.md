@@ -1,10 +1,17 @@
-<h1>I'm Mohale Peter Mohale <br/><a href="https://www.linkedin.com/in/mohalemohale/">Cybersecurity Professional</a> <a 
+<h3>I'm Mohale Peter Mohale <br/><a href="https://www.linkedin.com/in/mohalemohale/">Performing Internal Security Audit</a> <a 
 
 <h2></h2>
 
 
-- <b>NIST Cyber Security Framework Demonstration (Honeynet, Identify, Protect, Detect, Respond and Recover)</b>
-  - [Cyber Security Defense](https://github.com/Mohale-Mohale/Azure-SOC)
+- <b>Botium Toys Security Audit</b> (*A fictitious company manufacturing and selling Toys in US and online globally*)
+ 
+ ![Botium Toys](https://i.imgur.com/eLDozsm.jpg)
+ 
+ 
+ 
+ 
+ 
+ 
   
 
 <h2> 🤳 Connect with me:</h2>
@@ -16,17 +23,4 @@
 [twitter]: https://twitter.com/Moohale
 [linkedin]: https://linkedin.com/in/mohalemohale
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
