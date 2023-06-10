@@ -2,12 +2,24 @@
 
 <h2></h2>
 
-
 - <b>Botium Toys Security Audit</b> (*A fictitious company manufacturing and selling Toys in US and online globally*)
  
  ![Botium Toys](https://i.imgur.com/eLDozsm.jpg)
  
- 
+ # Security Audit.
+## Botium Toys
+<details>
+  <summary>Table of Contents</summary>
+
+  ### Audit Scope and Gols
+  
+  1. Scope
+     * Baz
+     * Qux
+  2. Goals
+     * Baz
+     * Qux
+
  
  
  
