@@ -98,11 +98,11 @@ monitoring
   <details> 
   
  *<summary> 4. Compliance Checklist </summary>*
-<b>The Federal Energy Regulatory Commission - North American Electric Reliability Corporation (FERC-NERC)</b>
+# <b>The Federal Energy Regulatory Commission - North American Electric Reliability Corporation (FERC-NERC)</b>
 
 The FERC-NERC regulation applies to organizations that work with electricity or that are involved with the U.S. and North American power grid. Organizations have an obligation to prepare for, mitigate, and report any potential security incident that can negatively affect the power grid. Organizations are legally required to adhere to the Critical Infrastructure Protection Reliability Standards (CIP) defined by the FERC. 
    
-<b>Explanation: </b>
+## <b>Explanation: </b>
    
 A fictitious company like Botium Toys, if operating within the jurisdiction of the United States and involved in the energy sector, could potentially be affected by the regulations and standards enforced by FERC and NERC. However, it's important to note that Botium Toys, as described in the scenario, is a toy development and sales company, which may not directly fall under the scope of FERC and NERC regulations unless they have specific energy-related operations.
 FERC's regulations primarily focus on the transmission and wholesale sale of electricity and natural gas, ensuring the reliability, security, and competitiveness of energy markets. If Botium Toys were to engage in activities related to energy generation, transmission, or wholesale trading of electricity or natural gas, they would need to comply with FERC's regulations applicable to those activities.
@@ -111,11 +111,11 @@ NERC's reliability standards are mandatory for entities involved in the operatio
 However, it's worth noting that the scenario describes Botium Toys as a toy development and sales company, which suggests that their primary focus is not energy-related operations. Therefore, unless the scenario provides additional context about their involvement in the energy sector, it's unlikely that Botium Toys would be directly subject to FERC and NERC regulations.
 For the Critical Infrastructure Protection Reliability Standards (CIP) defined by the FERC. Botium Toys does not have a critical asset like Transmission network which its failure could affect a large population. But Botium Toys can align itself with other regulations like NIST CSF.
    
-<b>General Data Protection Regulation (GDPR)</b>
+### <b>General Data Protection Regulation (GDPR)</b>
 
 GDPR is a European Union (E.U.) general data regulation that protects the processing of E.U. citizens’ data and their right to privacy in and out of E.U. territory. Additionally, if a breach occurs and a E.U. citizen’s data is compromised, they must be informed within 72 hours of the incident.
    
-<b>Explanation: </b>
+#### <b>Explanation: </b>
 
 The GDPR establishes a set of rules for how personal data of individuals within the EU should be collected, processed, and stored.
 GDPR applies to ALL organizations globally, as long as the org stores or processes personal data of EU citizens or residents.
