@@ -262,6 +262,8 @@ With regard to Botium Toys, it has been stated from the risk assessment that the
 By undergoing a SOC examination, Botium Toys can provide transparency and assurance to its customers regarding the security and integrity of its systems and processes. This can help build trust, demonstrate compliance with relevant regulations, and differentiate the company from competitors in the market.
 
  </details>
+ 
+ <summary> </summary>
 
 <h2> 🤳 Connect with me:</h2>
 
