@@ -140,7 +140,7 @@ management</li>
  </details>
  
  <details>
-  *<summary> 5. Compliance Checklist </summary>*
+  <summary> 5. Compliance Checklist </summary>
 
   
 ## <b>The Federal Energy Regulatory Commission - North American Electric Reliability Corporation (FERC-NERC)</b>
