@@ -16,8 +16,7 @@ Security Audit Planning at Botium Toys
 
 <h2></h2>
 <b>Audit Scope and Goals.</b>
- 
-*<summary> 1. Audit Scope </summary>*
+ *<summary> 1. Audit Scope </summary>*
   * Current use permissions set in the following systems:
     * Accounting
     * End Point Detection - EPD
@@ -75,14 +74,13 @@ clearly defined, only items within scope should be audited. In this scenario, th
  </details>
  
  <details> 
-  
- *<summary> 3. Risk Assessment </summary>*
+  *<summary> 3. Risk Assessment </summary>*
   * Assets managed by the IT Department include:
-    * On-premises equipment for in-office business needs
-    * Employee equipment: end-user devices (desktops/laptops, smartphones),
+    * <ins>On-premises equipment for in-office business needs</ins>
+    * <ins>Employee equipment: end-user devices (desktops/laptops, smartphones),</ins>
 remote workstations, headsets, cables, keyboards, mice, docking stations,
 surveillance cameras, etc.
-    * Management of systems, software, and services: accounting,
+    * <ins> Management of systems, software, and services:</ims> accounting,
 telecommunication, database, security, ecommerce, and inventory
 management
     * Internet access
@@ -91,13 +89,60 @@ management
     * Data center hosting services
     * Data retention and storage
     * Badge readers
-    * Legacy system maintenance: end-of-life systems that require human
-monitoring
+    * Legacy system maintenance: end-of-life systems that require human monitoring
+  
+## Risk description
+Currently, there is inadequate management of assets. Additionally, Botium Toys does
+not have the proper controls in place and may not be compliant with U.S. and
+international regulations and standards.
+  
+## Control best practices
+The first of the five functions of the NIST CSF is Identify. Botium Toys will need to
+dedicate resources to managing assets. Additionally, they will need to determine the
+impact of the loss of existing assets, including systems, on business continuity.
+
+## Risk score
+On a scale of 1 to 10, the risk score is 8, which is fairly high. This is due to a lack of
+controls and adherence to necessary compliance regulations and standards.
+  
+## Additional comments
+The potential impact from the loss of an asset is rated as medium, because the IT
+department does not know which assets would be lost. The likelihood of a lost asset or
+fines from governing bodies is high because Botium Toys does not have all of the
+necessary controls in place and is not adhering to required regulations and standards
+related to keeping customer data private.
+  
  </details>
  
-  <details> 
+
+ <details>
+<summary> 4. Controls Assessement </summary>
   
- *<summary> 4. Compliance Checklist </summary>*
+ ## Current assets
+  
+ ### Assets managed by the IT Department include:
+  
+<ol>
+<li> On-premises equipment for in-office business needs </li>
+<li> Employee equipment: 
+    end-user devices (desktops/laptops, smartphones),remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.
+<li> Management of systems, software, and services: accounting, telecommunication, database, security, ecommerce, and inventory
+management</li>
+<li> Internet access</li> 
+<li> Internal network</li> 
+<li> Vendor access management</li> 
+<li> Data center hosting services</li> 
+<li> Data retention and storage</li> 
+<li> Badge readers</li> 
+<li> Legacy system maintenance: end-of-life systems that require human monitoring</ol> 
+</ol>
+ 
+ </details>
+ 
+ <details>
+  *<summary> 5. Compliance Checklist </summary>*
+
+  
 ## <b>The Federal Energy Regulatory Commission - North American Electric Reliability Corporation (FERC-NERC)</b>
 
 The FERC-NERC regulation applies to organizations that work with electricity or that are involved with the U.S. and North American power grid. Organizations have an obligation to prepare for, mitigate, and report any potential security incident that can negatively affect the power grid. Organizations are legally required to adhere to the Critical Infrastructure Protection Reliability Standards (CIP) defined by the FERC. 
